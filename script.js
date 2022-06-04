@@ -51,7 +51,7 @@ const post = {
   title: "Books",
   Aftor: "Sharshebaeva I.",
   Date: 2022,
-  body: "Книги со своей историей",
+  body: "Books with history and love",
   picture:
     "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ukrgate.com%2Feng%2F%3Fp%3D7087&psig=AOvVaw0HOOi7v0nxpHNq3APr0cOw&ust=1654369438346000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCIhOb8kfgCFQAAAAAdAAAAABAI ",
   tag: "books",
